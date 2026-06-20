@@ -1,0 +1,25 @@
+Time_Key,Hour,part_of_day
+1,0,Late Night
+2,1,Late Night
+3,2,Late Night
+4,3,Late Night
+5,4,Late Night
+6,5,Morning
+7,6,Morning
+8,7,Morning
+9,8,Morning
+10,9,Morning
+11,10,Morning
+12,11,Morning
+13,12,Afternoon
+14,13,Afternoon
+15,14,Afternoon
+16,15,Afternoon
+17,16,Afternoon
+18,17,Evening
+19,18,Evening
+20,19,Evening
+21,20,Evening
+22,21,Night
+23,22,Night
+24,23,Night

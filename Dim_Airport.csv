@@ -1,0 +1,349 @@
+Airport_Key,Airport_Code,City_Name,State_Name
+1,ABE,"Allentown/Bethlehem/Easton, PA",Pennsylvania
+2,ABI,"Abilene, TX",Texas
+3,ABQ,"Albuquerque, NM",New Mexico
+4,ABR,"Aberdeen, SD",South Dakota
+5,ABY,"Albany, GA",Georgia
+6,ACK,"Nantucket, MA",Massachusetts
+7,ACT,"Waco, TX",Texas
+8,ACV,"Arcata/Eureka, CA",California
+9,ACY,"Atlantic City, NJ",New Jersey
+10,ADK,"Adak Island, AK",Alaska
+11,ADQ,"Kodiak, AK",Alaska
+12,AEX,"Alexandria, LA",Louisiana
+13,AGS,"Augusta, GA",Georgia
+14,AKN,"King Salmon, AK",Alaska
+15,ALB,"Albany, NY",New York
+16,ALW,"Walla Walla, WA",Washington
+17,AMA,"Amarillo, TX",Texas
+18,ANC,"Anchorage, AK",Alaska
+19,APN,"Alpena, MI",Michigan
+20,ASE,"Aspen, CO",Colorado
+21,ATL,"Atlanta, GA",Georgia
+22,ATW,"Appleton, WI",Wisconsin
+23,AUS,"Austin, TX",Texas
+24,AVL,"Asheville, NC",North Carolina
+25,AVP,"Scranton/Wilkes-Barre, PA",Pennsylvania
+26,AZA,"Phoenix, AZ",Arizona
+27,AZO,"Kalamazoo, MI",Michigan
+28,BDL,"Hartford, CT",Connecticut
+29,BET,"Bethel, AK",Alaska
+30,BFF,"Scottsbluff, NE",Nebraska
+31,BFL,"Bakersfield, CA",California
+32,BGM,"Binghamton, NY",New York
+33,BGR,"Bangor, ME",Maine
+34,BHM,"Birmingham, AL",Alabama
+35,BIH,"Bishop, CA",California
+36,BIL,"Billings, MT",Montana
+37,BIS,"Bismarck/Mandan, ND",North Dakota
+38,BJI,"Bemidji, MN",Minnesota
+39,BLI,"Bellingham, WA",Washington
+40,BLV,"Belleville, IL",Illinois
+41,BMI,"Bloomington/Normal, IL",Illinois
+42,BNA,"Nashville, TN",Tennessee
+43,BOI,"Boise, ID",Idaho
+44,BOS,"Boston, MA",Massachusetts
+45,BPT,"Beaumont/Port Arthur, TX",Texas
+46,BQK,"Brunswick, GA",Georgia
+47,BQN,"Aguadilla, PR",Puerto Rico
+48,BRD,"Brainerd, MN",Minnesota
+49,BRO,"Brownsville, TX",Texas
+50,BRW,"Barrow, AK",Alaska
+51,BTM,"Butte, MT",Montana
+52,BTR,"Baton Rouge, LA",Louisiana
+53,BTV,"Burlington, VT",Vermont
+54,BUF,"Buffalo, NY",New York
+55,BUR,"Burbank, CA",California
+56,BWI,"Baltimore, MD",Maryland
+57,BZN,"Bozeman, MT",Montana
+58,CAE,"Columbia, SC",South Carolina
+59,CAK,"Akron, OH",Ohio
+60,CDC,"Cedar City, UT",Utah
+61,CDV,"Cordova, AK",Alaska
+62,CHA,"Chattanooga, TN",Tennessee
+63,CHO,"Charlottesville, VA",Virginia
+64,CHS,"Charleston, SC",South Carolina
+65,CID,"Cedar Rapids/Iowa City, IA",Iowa
+66,CIU,"Sault Ste. Marie, MI",Michigan
+67,CKB,"Clarksburg/Fairmont, WV",West Virginia
+68,CLE,"Cleveland, OH",Ohio
+69,CLL,"College Station/Bryan, TX",Texas
+70,CLT,"Charlotte, NC",North Carolina
+71,CMH,"Columbus, OH",Ohio
+72,CMI,"Champaign/Urbana, IL",Illinois
+73,CMX,"Hancock/Houghton, MI",Michigan
+74,CNY,"Moab, UT",Utah
+75,COD,"Cody, WY",Wyoming
+76,COS,"Colorado Springs, CO",Colorado
+77,COU,"Columbia, MO",Missouri
+78,CPR,"Casper, WY",Wyoming
+79,CRP,"Corpus Christi, TX",Texas
+80,CRW,"Charleston/Dunbar, WV",West Virginia
+81,CSG,"Columbus, GA",Georgia
+82,CVG,"Cincinnati, OH",Kentucky
+83,CWA,"Mosinee, WI",Wisconsin
+84,CYS,"Cheyenne, WY",Wyoming
+85,DAB,"Daytona Beach, FL",Florida
+86,DAL,"Dallas, TX",Texas
+87,DAY,"Dayton, OH",Ohio
+88,DCA,"Washington, DC",Virginia
+89,DDC,"Dodge City, KS",Kansas
+90,DEC,"Decatur, IL",Illinois
+91,DEN,"Denver, CO",Colorado
+92,DFW,"Dallas/Fort Worth, TX",Texas
+93,DHN,"Dothan, AL",Alabama
+94,DIK,"Dickinson, ND",North Dakota
+95,DLG,"Dillingham, AK",Alaska
+96,DLH,"Duluth, MN",Minnesota
+97,DRO,"Durango, CO",Colorado
+98,DSM,"Des Moines, IA",Iowa
+99,DTW,"Detroit, MI",Michigan
+100,DVL,"Devils Lake, ND",North Dakota
+101,EAR,"Kearney, NE",Nebraska
+102,EAU,"Eau Claire, WI",Wisconsin
+103,ECP,"Panama City, FL",Florida
+104,EGE,"Eagle, CO",Colorado
+105,EKO,"Elko, NV",Nevada
+106,ELM,"Elmira/Corning, NY",New York
+107,ELP,"El Paso, TX",Texas
+108,ESC,"Escanaba, MI",Michigan
+109,EUG,"Eugene, OR",Oregon
+110,EVV,"Evansville, IN",Indiana
+111,EWN,"New Bern/Morehead/Beaufort, NC",North Carolina
+112,EWR,"Newark, NJ",New Jersey
+113,EYW,"Key West, FL",Florida
+114,FAI,"Fairbanks, AK",Alaska
+115,FAR,"Fargo, ND",North Dakota
+116,FAT,"Fresno, CA",California
+117,FAY,"Fayetteville, NC",North Carolina
+118,FCA,"Kalispell, MT",Montana
+119,FLG,"Flagstaff, AZ",Arizona
+120,FLL,"Fort Lauderdale, FL",Florida
+121,FNT,"Flint, MI",Michigan
+122,FOD,"Fort Dodge, IA",Iowa
+123,FSD,"Sioux Falls, SD",South Dakota
+124,FSM,"Fort Smith, AR",Arkansas
+125,FWA,"Fort Wayne, IN",Indiana
+126,GCC,"Gillette, WY",Wyoming
+127,GCK,"Garden City, KS",Kansas
+128,GEG,"Spokane, WA",Washington
+129,GFK,"Grand Forks, ND",North Dakota
+130,GGG,"Longview, TX",Texas
+131,GJT,"Grand Junction, CO",Colorado
+132,GNV,"Gainesville, FL",Florida
+133,GPT,"Gulfport/Biloxi, MS",Mississippi
+134,GRB,"Green Bay, WI",Wisconsin
+135,GRI,"Grand Island, NE",Nebraska
+136,GRK,"Killeen, TX",Texas
+137,GRR,"Grand Rapids, MI",Michigan
+138,GSO,"Greensboro/High Point, NC",North Carolina
+139,GSP,"Greer, SC",South Carolina
+140,GST,"Gustavus, AK",Alaska
+141,GTF,"Great Falls, MT",Montana
+142,GTR,"Columbus, MS",Mississippi
+143,GUC,"Gunnison, CO",Colorado
+144,GUM,"Guam, TT",U.S. Pacific Trust Territories and Possessions
+145,HDN,"Hayden, CO",Colorado
+146,HGR,"Hagerstown, MD",Maryland
+147,HHH,"Hilton Head, SC",South Carolina
+148,HIB,"Hibbing, MN",Minnesota
+149,HLN,"Helena, MT",Montana
+150,HNL,"Honolulu, HI",Hawaii
+151,HOB,"Hobbs, NM",New Mexico
+152,HOU,"Houston, TX",Texas
+153,HPN,"White Plains, NY",New York
+154,HRL,"Harlingen/San Benito, TX",Texas
+155,HSV,"Huntsville, AL",Alabama
+156,HTS,"Ashland, WV",West Virginia
+157,HYA,"Hyannis, MA",Massachusetts
+158,HYS,"Hays, KS",Kansas
+159,IAD,"Washington, DC",Virginia
+160,IAG,"Niagara Falls, NY",New York
+161,IAH,"Houston, TX",Texas
+162,ICT,"Wichita, KS",Kansas
+163,IDA,"Idaho Falls, ID",Idaho
+164,ILM,"Wilmington, NC",North Carolina
+165,IMT,"Iron Mountain/Kingsfd, MI",Michigan
+166,IND,"Indianapolis, IN",Indiana
+167,INL,"International Falls, MN",Minnesota
+168,ISP,"Islip, NY",New York
+169,ITH,"Ithaca/Cortland, NY",New York
+170,ITO,"Hilo, HI",Hawaii
+171,JAC,"Jackson, WY",Wyoming
+172,JAN,"Jackson/Vicksburg, MS",Mississippi
+173,JAX,"Jacksonville, FL",Florida
+174,JFK,"New York, NY",New York
+175,JLN,"Joplin, MO",Missouri
+176,JMS,"Jamestown, ND",North Dakota
+177,JNU,"Juneau, AK",Alaska
+178,JST,"Johnstown, PA",Pennsylvania
+179,KOA,"Kona, HI",Hawaii
+180,KTN,"Ketchikan, AK",Alaska
+181,LAN,"Lansing, MI",Michigan
+182,LAR,"Laramie, WY",Wyoming
+183,LAS,"Las Vegas, NV",Nevada
+184,LAW,"Lawton/Fort Sill, OK",Oklahoma
+185,LAX,"Los Angeles, CA",California
+186,LBB,"Lubbock, TX",Texas
+187,LBE,"Latrobe, PA",Pennsylvania
+188,LBF,"North Platte, NE",Nebraska
+189,LBL,"Liberal, KS",Kansas
+190,LCH,"Lake Charles, LA",Louisiana
+191,LCK,"Columbus, OH",Ohio
+192,LEX,"Lexington, KY",Kentucky
+193,LFT,"Lafayette, LA",Louisiana
+194,LGA,"New York, NY",New York
+195,LGB,"Long Beach, CA",California
+196,LIH,"Lihue, HI",Hawaii
+197,LIT,"Little Rock, AR",Arkansas
+198,LNK,"Lincoln, NE",Nebraska
+199,LRD,"Laredo, TX",Texas
+200,LSE,"La Crosse, WI",Wisconsin
+201,LWS,"Lewiston, ID",Idaho
+202,MAF,"Midland/Odessa, TX",Texas
+203,MBS,"Saginaw/Bay City/Midland, MI",Michigan
+204,MCI,"Kansas City, MO",Missouri
+205,MCO,"Orlando, FL",Florida
+206,MCW,"Mason City, IA",Iowa
+207,MDT,"Harrisburg, PA",Pennsylvania
+208,MDW,"Chicago, IL",Illinois
+209,MEI,"Meridian, MS",Mississippi
+210,MEM,"Memphis, TN",Tennessee
+211,MFE,"Mission/McAllen/Edinburg, TX",Texas
+212,MFR,"Medford, OR",Oregon
+213,MGM,"Montgomery, AL",Alabama
+214,MGW,"Morgantown, WV",West Virginia
+215,MHK,"Manhattan/Ft. Riley, KS",Kansas
+216,MHT,"Manchester, NH",New Hampshire
+217,MIA,"Miami, FL",Florida
+218,MKE,"Milwaukee, WI",Wisconsin
+219,MLB,"Melbourne, FL",Florida
+220,MLI,"Moline, IL",Illinois
+221,MLU,"Monroe, LA",Louisiana
+222,MOB,"Mobile, AL",Alabama
+223,MOT,"Minot, ND",North Dakota
+224,MQT,"Marquette, MI",Michigan
+225,MRY,"Monterey, CA",California
+226,MSN,"Madison, WI",Wisconsin
+227,MSO,"Missoula, MT",Montana
+228,MSP,"Minneapolis, MN",Minnesota
+229,MSY,"New Orleans, LA",Louisiana
+230,MTJ,"Montrose/Delta, CO",Colorado
+231,MVY,"Martha's Vineyard, MA",Massachusetts
+232,MYR,"Myrtle Beach, SC",South Carolina
+233,OAJ,"Jacksonville/Camp Lejeune, NC",North Carolina
+234,OAK,"Oakland, CA",California
+235,OGG,"Kahului, HI",Hawaii
+236,OKC,"Oklahoma City, OK",Oklahoma
+237,OMA,"Omaha, NE",Nebraska
+238,OME,"Nome, AK",Alaska
+239,ONT,"Ontario, CA",California
+240,ORD,"Chicago, IL",Illinois
+241,ORF,"Norfolk, VA",Virginia
+242,ORH,"Worcester, MA",Massachusetts
+243,OTH,"North Bend/Coos Bay, OR",Oregon
+244,OTZ,"Kotzebue, AK",Alaska
+245,PAE,"Everett, WA",Washington
+246,PBG,"Plattsburgh, NY",New York
+247,PBI,"West Palm Beach/Palm Beach, FL",Florida
+248,PDX,"Portland, OR",Oregon
+249,PGD,"Punta Gorda, FL",Florida
+250,PHL,"Philadelphia, PA",Pennsylvania
+251,PHX,"Phoenix, AZ",Arizona
+252,PIA,"Peoria, IL",Illinois
+253,PIB,"Hattiesburg/Laurel, MS",Mississippi
+254,PIE,"St. Petersburg, FL",Florida
+255,PIH,"Pocatello, ID",Idaho
+256,PIT,"Pittsburgh, PA",Pennsylvania
+257,PLN,"Pellston, MI",Michigan
+258,PNS,"Pensacola, FL",Florida
+259,PPG,"Pago Pago, TT",U.S. Pacific Trust Territories and Possessions
+260,PQI,"Presque Isle/Houlton, ME",Maine
+261,PRC,"Prescott, AZ",Arizona
+262,PSC,"Pasco/Kennewick/Richland, WA",Washington
+263,PSE,"Ponce, PR",Puerto Rico
+264,PSG,"Petersburg, AK",Alaska
+265,PSM,"Portsmouth, NH",New Hampshire
+266,PSP,"Palm Springs, CA",California
+267,PVD,"Providence, RI",Rhode Island
+268,PVU,"Provo, UT",Utah
+269,PWM,"Portland, ME",Maine
+270,RAP,"Rapid City, SD",South Dakota
+271,RDD,"Redding, CA",California
+272,RDM,"Bend/Redmond, OR",Oregon
+273,RDU,"Raleigh/Durham, NC",North Carolina
+274,RFD,"Rockford, IL",Illinois
+275,RHI,"Rhinelander, WI",Wisconsin
+276,RIC,"Richmond, VA",Virginia
+277,RIW,"Riverton/Lander, WY",Wyoming
+278,RKS,"Rock Springs, WY",Wyoming
+279,RNO,"Reno, NV",Nevada
+280,ROA,"Roanoke, VA",Virginia
+281,ROC,"Rochester, NY",New York
+282,ROW,"Roswell, NM",New Mexico
+283,RST,"Rochester, MN",Minnesota
+284,RSW,"Fort Myers, FL",Florida
+285,SAF,"Santa Fe, NM",New Mexico
+286,SAN,"San Diego, CA",California
+287,SAT,"San Antonio, TX",Texas
+288,SAV,"Savannah, GA",Georgia
+289,SBA,"Santa Barbara, CA",California
+290,SBN,"South Bend, IN",Indiana
+291,SBP,"San Luis Obispo, CA",California
+292,SCC,"Deadhorse, AK",Alaska
+293,SCE,"State College, PA",Pennsylvania
+294,SCK,"Stockton, CA",California
+295,SDF,"Louisville, KY",Kentucky
+296,SEA,"Seattle, WA",Washington
+297,SFB,"Sanford, FL",Florida
+298,SFO,"San Francisco, CA",California
+299,SGF,"Springfield, MO",Missouri
+300,SGU,"St. George, UT",Utah
+301,SHR,"Sheridan, WY",Wyoming
+302,SHV,"Shreveport, LA",Louisiana
+303,SIT,"Sitka, AK",Alaska
+304,SJC,"San Jose, CA",California
+305,SJT,"San Angelo, TX",Texas
+306,SJU,"San Juan, PR",Puerto Rico
+307,SLC,"Salt Lake City, UT",Utah
+308,SLN,"Salina, KS",Kansas
+309,SMF,"Sacramento, CA",California
+310,SMX,"Santa Maria, CA",California
+311,SNA,"Santa Ana, CA",California
+312,SPI,"Springfield, IL",Illinois
+313,SPN,"Saipan, TT",U.S. Pacific Trust Territories and Possessions
+314,SPS,"Wichita Falls, TX",Texas
+315,SRQ,"Sarasota/Bradenton, FL",Florida
+316,STC,"St. Cloud, MN",Minnesota
+317,STL,"St. Louis, MO",Missouri
+318,STS,"Santa Rosa, CA",California
+319,STT,"Charlotte Amalie, VI",U.S. Virgin Islands
+320,STX,"Christiansted, VI",U.S. Virgin Islands
+321,SUN,"Sun Valley/Hailey/Ketchum, ID",Idaho
+322,SUX,"Sioux City, IA",Iowa
+323,SWF,"Newburgh/Poughkeepsie, NY",New York
+324,SWO,"Stillwater, OK",Oklahoma
+325,SYR,"Syracuse, NY",New York
+326,TLH,"Tallahassee, FL",Florida
+327,TOL,"Toledo, OH",Ohio
+328,TPA,"Tampa, FL",Florida
+329,TRI,"Bristol/Johnson City/Kingsport, TN",Tennessee
+330,TTN,"Trenton, NJ",New Jersey
+331,TUL,"Tulsa, OK",Oklahoma
+332,TUS,"Tucson, AZ",Arizona
+333,TVC,"Traverse City, MI",Michigan
+334,TWF,"Twin Falls, ID",Idaho
+335,TXK,"Texarkana, AR",Arkansas
+336,TYR,"Tyler, TX",Texas
+337,TYS,"Knoxville, TN",Tennessee
+338,USA,"Concord, NC",North Carolina
+339,VCT,"Victoria, TX",Texas
+340,VEL,"Vernal, UT",Utah
+341,VLD,"Valdosta, GA",Georgia
+342,VPS,"Valparaiso, FL",Florida
+343,WRG,"Wrangell, AK",Alaska
+344,WYS,"West Yellowstone, MT",Montana
+345,XNA,"Fayetteville, AR",Arkansas
+346,XWA,"Williston, ND",North Dakota
+347,YAK,"Yakutat, AK",Alaska
+348,YUM,"Yuma, AZ",Arizona

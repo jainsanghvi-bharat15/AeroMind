@@ -1,0 +1,6 @@
+Delay_Type_Key,Delay_Type
+1,Carrier Delay
+2,Weather Delay
+3,NAS Delay
+4,Security Delay
+5,Late Aircraft Delay
